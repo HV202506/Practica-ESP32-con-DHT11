@@ -8,14 +8,14 @@ La placa ESP32 la empleamos para adquirir los datos provenientes del DHT11 (temp
 
 Esta practica se realizo empleando un simulador: [WOKWI](www.wokwi.com) la cual nos permite simular los elementos y el codigo.
 
-#Material necesario
+# Material necesario
 
 Para realizar esta practica se necesito
 - [WOKWI](www.wokwi.com)
 - Una tarjeta ESP32 (para adquisicion de datos)
 - Sensor DHT11 (para recolectar los datos del entorno)
 
-#Instrucciones
+# Instrucciones
 1. Abrir la terminal del codigo:
 
 ```
@@ -40,6 +40,7 @@ void loop() {
   delay(1000);
 }
 ```
+
 2. Instalar la libreria de DHT senson library for ESPx, en la siguiente imagen se muestra la libreria seleccionada.
 
 ![](https://github.com/HV202506/Practica-ESP32-con-DHT11/blob/main/DHT%20sensor%20library%20for%20ESPx.png?raw=true)
@@ -49,17 +50,20 @@ void loop() {
 
 ![](https://github.com/HV202506/Practica-ESP32-con-DHT11/blob/main/Elementos%20ESP32%20y%20DHT11.png?raw=true))
 
-#Intrucciones de operación
+
+# Intrucciones de operación
+
 1. Iniciar la simulación.
 2. Observar los datos del monitor serial.
 3. Colorar la temperatura y humedad dando doble click en el sensor DHT11 (temperatura y humedad).
 
-#Resultados
+# Resultados
 
 Una vez realizados los pasos anteriores deberas visualizar la temperatura y la humedad del entorno tal como se muestra en la siguiente imagen. 
 
 ![](https://github.com/user-attachments/assets/eb7bd133-741a-45b8-b340-1e4558ba4116)
 
 
-#Créditos
-Desarrollado por Ing. Héctor Angel Vega Rodríguez
+# Créditos
+
+Desarrollado por: Ing. Héctor Angel Vega Rodríguez
