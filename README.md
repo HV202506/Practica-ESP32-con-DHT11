@@ -45,3 +45,21 @@ void loop() {
 ![](https://github.com/HV202506/Practica-ESP32-con-DHT11/blob/main/DHT%20sensor%20library%20for%20ESPx.png?raw=true)
 
 
+3. Hacer las concexiones del DHT11 con el ESP32 tal cual se muestra la siguiente imagen.
+
+![](https://github.com/HV202506/Practica-ESP32-con-DHT11/blob/main/Elementos%20ESP32%20y%20DHT11.png?raw=true))
+
+#Intrucciones de operación
+1. Iniciar la simulación.
+2. Observar los datos del monitor serial.
+3. Colorar la temperatura y humedad dando doble click en el sensor DHT11 (temperatura y humedad).
+
+#Resultados
+
+Una vez realizados los pasos anteriores deberas visualizar la temperatura y la humedad del entorno tal como se muestra en la siguiente imagen. 
+
+![](https://github.com/user-attachments/assets/eb7bd133-741a-45b8-b340-1e4558ba4116)
+
+
+#Créditos
+Desarrollado por Ing. Héctor Angel Vega Rodríguez
