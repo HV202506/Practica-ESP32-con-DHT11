@@ -42,6 +42,6 @@ void loop() {
 ```
 2. Instalar la libreria de DHT senson library for ESPx, en la siguiente imagen se muestra la libreria seleccionada.
 
-
+![](https://github.com/HV202506/Practica-ESP32-con-DHT11/blob/main/DHT%20sensor%20library%20for%20ESPx.png?raw=true)
 
 
